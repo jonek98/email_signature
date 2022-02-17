@@ -1,3 +1,3 @@
-# email signature
+# E-mail signature
 
-It's just simple HTML code with email signature for my brother company
+It's just simple HTML code with email signature for my brother company.
